@@ -4,4 +4,4 @@ Simple webpack 2 starter
 - bootstrap 4
 - sass
 - es2015
-- postcss
+- postcss autoprefixer
